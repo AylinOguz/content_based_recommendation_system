@@ -19,7 +19,7 @@ Recommends movies similar in description to a chosen movie, rather than based on
 
 ## Tools Used
 
-Python 🐍
+Python 
 
 Pandas
 
