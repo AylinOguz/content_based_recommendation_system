@@ -1,5 +1,8 @@
 
  # Movie Recommendation System (Content-Based Filtering)
+
+![image](https://github.com/AylinOguz/content_based_recommendation_system/blob/main/content_based_recommendation.png?raw=true)
+ 
 ##  Project Overview
 
 This project implements a content-based movie recommendation system using the MovieLens dataset
