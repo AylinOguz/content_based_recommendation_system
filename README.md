@@ -1,4 +1,4 @@
-# Movie Recommendation System (Content-Based Filtering)
+# Content Based Recommendation
 
 ![image](https://github.com/AylinOguz/content_based_recommendation_system/blob/main/content_based_recommendation.png?raw=true)
  
